@@ -26,5 +26,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=NikithGanga&icon=0&color=3)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=NikithGanga&label=Profile%20Views&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
